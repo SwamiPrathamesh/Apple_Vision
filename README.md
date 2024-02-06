@@ -1,4 +1,4 @@
-# AmazonVision Replica
+# Apple_Vision 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apple_Vision_Pro.svg" width= 300/>
 This project is a frontend replica of AmazonVision, built with HTML, CSS, and JavaScript for an interactive user interface.
